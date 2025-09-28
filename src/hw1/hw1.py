@@ -85,6 +85,6 @@ def hw1_solutions():
 
     w_sum = w.sum()
 
-    print(w_sum)
+    answers["q7"] = w_sum
 
     print(answers)
